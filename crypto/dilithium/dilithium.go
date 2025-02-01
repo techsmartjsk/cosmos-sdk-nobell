@@ -9,6 +9,7 @@ import (
 	"golang.org/x/crypto/nacl/secretbox"
 )
 
+
 const (
 	nonceLen  = 24
 	secretLen = 32
